@@ -1,0 +1,24 @@
+#programme that read the sum, mul, div, sub
+ 
+int X
+int Y
+
+X= X+Y
+
+#mul
+Y=Y*X
+
+#div
+Y=0
+
+#sub 
+Y=Y-X
+
+#condition
+if (X==0 and Y==0 ) :
+	Y=7
+elif ((X==4 or Y==0) and (X==7 or Y==0)) :
+	Y=0
+else :
+	X=0
+#end 

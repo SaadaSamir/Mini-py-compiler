@@ -1,0 +1,70 @@
+#start
+
+#note :
+# this program generate all semantic errors 
+
+float W=4
+float V
+V=2
+int A
+int V
+
+bool String=4
+bool Exp
+Exp=45
+
+int B=5.9
+float N
+B=B+N
+int U
+U=4/0
+U=U/0
+
+int Tab[20]
+
+B=Tab[20]+4
+
+Tab[20]=B+2
+
+char Y
+Y=4
+Y=2
+
+int P
+bool H[7]
+float Star[99]
+
+V=V/V
+
+if (X<B) :
+	int J
+	int P
+	while (X<B) :
+		int P
+		int E
+		while (R<U) :
+			int Z 
+		int L
+	for I in Tab :
+		E=E-4
+		for W in range(0,8) :
+			for Q in range(2,5) :
+				int D
+				if (D<Z) :
+					int Z
+					D=Z-4
+				elif (P<A) :
+					A=A*7
+				else :
+					while (P<=A) :
+						P=P/1
+	if (P>=A) :
+		int G
+	else :
+		P=E+D
+else :
+	X=4
+	for C in Tab :
+		int L
+
+
