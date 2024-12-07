@@ -16,6 +16,7 @@ This project implements a mini-compiler in C that performs:
 - Output: `print(expression)`
 
 ## Project Structure
+```python
 Mini-py-compiler/
 ├── src/
 │ ├── lexer.l # FLEX lexical analyzer
